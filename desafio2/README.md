@@ -17,6 +17,9 @@ Adicione os seus nomes nesse arquivo
 - Elisa Alves
 - João Guilherme_IzzyPizy
 - Robert L.
+- Ana Cecília
+- Thais Vitória
+
 - Alexandre topper
 - João Guilherme_IzzyPizy
 - Rhenanraiz1vs9
