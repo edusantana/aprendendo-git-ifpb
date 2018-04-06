@@ -13,3 +13,4 @@ Adicione os seus nomes nesse arquivo
 ## Nomes
 
 - Eduardo Santana
+- João Guilherme_IzzyPizy
