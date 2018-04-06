@@ -21,4 +21,4 @@ Adicione os seus nomes nesse arquivo
 - João Guilherme_IzzyPizy
 - Rhenanraiz1vs9
 - Cassio
-
+- Leyd Dayanna
