@@ -11,30 +11,19 @@ Adicione os seus nomes nesse arquivo
 ## Nomes
 
 - Eduardo Santana
-<<<<<<< HEAD
-
 - Jadson viana
-=======
-<<<<<<< HEAD
+- Ianca Maria
 - Kleyton de Araújo Silva (3º Ano)
-<<<<<<< HEAD
 - Elisa Alves
-=======
 - João Guilherme_IzzyPizy
->>>>>>> b772cd65c397684ada8c10f3e939836c63ec9c4b
-<<<<<<< HEAD
--Robert L.
-========
--Alexandre topper
-=======
-=======
-=======
+- Robert L.
+- Alexandre topper
 - João Guilherme_IzzyPizy
+- Rhenanraiz1vs9
+- Cassio
+- Raffael
+- Matheus
 
--Cassio
-<<<<<<< HEAD
 =======
->>>>>>> b772cd65c397684ada8c10f3e939836c63ec9c4b
->>>>>>> 5dbf51112ddeb0b4abf9818543edec045935a833
->>>>>>> 650849b2d4c66d9cec6000ac26640b3497fcbfea
->>>>>>> d19458a2856e7475b6fe68e5bfe61a1a169bbc99
+- Leyd Dayanna
+>>>>>>> 92c23f90e5624db7b59bee1aacef0de7156aeeb2
