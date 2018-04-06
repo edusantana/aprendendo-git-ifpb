@@ -1,4 +1,4 @@
-# Desafio 1
+# Desafio 2
 
 Adicione os seus nomes nesse arquivo
 
@@ -13,3 +13,4 @@ Adicione os seus nomes nesse arquivo
 ## Nomes
 
 - Eduardo Santana
+- João Guilherme_IzzyPizy
