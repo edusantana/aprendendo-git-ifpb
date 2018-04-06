@@ -12,6 +12,7 @@ Adicione os seus nomes nesse arquivo
 
 - Eduardo Santana
 - Jadson viana
+- Ianca Maria
 - Kleyton de Araújo Silva (3º Ano)
 - Elisa Alves
 - João Guilherme_IzzyPizy
@@ -20,5 +21,11 @@ Adicione os seus nomes nesse arquivo
 - João Guilherme_IzzyPizy
 - Rhenanraiz1vs9
 - Cassio
+<<<<<<< HEAD
 - Beatriz Batista
+=======
+- Raffael
+- Matheus
+- Leyd Dayanna
+>>>>>>> f4511349ffbe824dd0933d3ca1ac89c703a61bf5
 
