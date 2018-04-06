@@ -13,6 +13,16 @@ Adicione os seus nomes nesse arquivo
 - Eduardo Santana
 <<<<<<< HEAD
 - Kleyton de Araújo Silva (3º Ano)
+<<<<<<< HEAD
+- Elisa Alves
 =======
 - João Guilherme_IzzyPizy
 >>>>>>> b772cd65c397684ada8c10f3e939836c63ec9c4b
+=======
+=======
+- João Guilherme_IzzyPizy
+<<<<<<< HEAD
+=======
+>>>>>>> b772cd65c397684ada8c10f3e939836c63ec9c4b
+>>>>>>> 5dbf51112ddeb0b4abf9818543edec045935a833
+>>>>>>> 650849b2d4c66d9cec6000ac26640b3497fcbfea
