@@ -10,7 +10,7 @@ Adicione os seus nomes nesse arquivo
 
 ## Nomes
 
-- Eduardo Santana
+- Eduardo Santana Medeiros
 - Jadson viana
 - Ianca Maria
 - Kleyton de Araújo Silva (3º Ano)
