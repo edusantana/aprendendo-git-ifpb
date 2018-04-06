@@ -21,11 +21,9 @@ Adicione os seus nomes nesse arquivo
 - João Guilherme_IzzyPizy
 - Rhenanraiz1vs9
 - Cassio
-<<<<<<< HEAD
 - Beatriz Batista
-=======
+- Jailma 
 - Raffael
 - Matheus
 - Leyd Dayanna
->>>>>>> f4511349ffbe824dd0933d3ca1ac89c703a61bf5
 
