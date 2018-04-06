@@ -22,6 +22,11 @@ Adicione os seus nomes nesse arquivo
 =======
 - João Guilherme_IzzyPizy
 >>>>>>> b772cd65c397684ada8c10f3e939836c63ec9c4b
+<<<<<<< HEAD
+-Robert L.
+========
+-Alexandre topper
+=======
 =======
 =======
 - João Guilherme_IzzyPizy
