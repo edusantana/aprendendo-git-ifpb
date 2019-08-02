@@ -83,16 +83,13 @@ drwxrwxr-x  7 eduardo eduardo 4096 Ago  1 23:17 .git
 ```w/
 cd ~/w/projeto-de-so/
 wget http://professor.unisinos.br/barbosa/SO/ch1br.ppt
+
 ```
 
-### Criar um repositório para guardar arquivos para um projeto de uma disciplina
-
-Nesta atividade você irá criar um repositório para hospedar os arquivos de um projeto
-
-1. Escolham um projeto de disciplina (se não tiver um projeto, invente um).
-2. Vá ao github e crie um repositório para o projeto escolhido. (Lembre-se de marcar que deseja criar um arquivo README)
-3. Depois que o projeto for criado, edite o arquivo `README.md` e adicione um parágrafo explicando o projeto.
-
-## Algo mais
-
-Sei lá.
+<!--
+- uma apresentação de slide
+- um documento pdf
+- um programa (script) escrito em python
+- links sobre os assuntos do projeto
+http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start
+-->
