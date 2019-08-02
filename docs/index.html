@@ -1,0 +1,110 @@
+
+<!doctype html>
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+  <meta name="theme-color" content="#4F7DC9">
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Code+Pro:400|Roboto:400,300,400italic,500,700|Roboto+Mono">
+  <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://storage.googleapis.com/codelab-elements/codelab-elements.css">
+  <style>
+    .success {
+      color: #1e8e3e;
+    }
+    .error {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <google-codelab-analytics gaid="UA-49880327-14"></google-codelab-analytics>
+  <google-codelab codelab-gaid=""
+                  id="guia-nord-hotels"
+                  title=""
+                  environment="web"
+                  feedback-link="https://github.com/edusantana/nord-hotels-app-guia-do-usuario/issues">
+    
+      <google-codelab-step label="Aprendendo a utilizar o git" duration="60">
+        <h2 is-upgraded>Introdução</h2>
+<ul>
+<li>O <strong>git</strong> é uma ferramenta de controle de versão.</li>
+<li>O <strong>git</strong> funciona utilizando repositórios de arquivos descentralizados (existem vários repositórios)</li>
+<li>O <strong>Github</strong> é uma empresa que vende hospedagens para repositórios on-line e oferece repositórios gratuitos para projetos de código aberto.</li>
+</ul>
+<h2 is-upgraded>Documentação</h2>
+<p>Você pode consultar essas páginas para mais detalhes</p>
+<ul>
+<li><a href="https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf" target="_blank">github-git-cheat-sheet.pdf (resumo: pt_BR)</a></li>
+<li><a href="https://git-scm.com/book/pt-br/v1" target="_blank">Livro Pro Git - Primeira versão (em português)</a></li>
+<li><a href="https://git-scm.com/book/pt-br/v2" target="_blank">Livro Pro Git - Segunda versão (tradução para português em progresso)</a></li>
+<li><a href="https://git-scm.com/book/en" target="_blank">Última versão do livro (em inglês)</a></li>
+</ul>
+
+
+      </google-codelab-step>
+    
+      <google-codelab-step label="Aula de hoje" duration="0">
+        <p>Nós iremos criar um repositório para guardar arquivos de um projeto.</p>
+<p>Suponha que você tenha esteja trabalhando em um projeto de uma disciplina qualquer (ex: Sistemas Operacionais).</p>
+<p>Os repositórios no github podem ser <em>Privados</em> ou <em>Públicos</em>, para o nosso caso iremos criar repositórios públicos, ou seja, qualquer pessoa poderá acessar os arquivos que fomos salvar.</p>
+<p>Vamos supor que desejamos salvar um projeto com os seguintes arquivos:</p>
+<ul>
+<li>uma apresentação de slide</li>
+<li>um documento pdf</li>
+<li>um programa (script) escrito em python</li>
+<li>links sobre os assuntos do projeto</li>
+</ul>
+
+
+      </google-codelab-step>
+    
+      <google-codelab-step label="Criando um repositório local" duration="0">
+        <h2 is-upgraded>criando diretório do repositório</h2>
+<p>O nosso primeiro passo é criar o diretório num local que desejamos, nesse caso optamos por criar <code>projeto-de-so</code> dentro do diretório <code>w</code>:</p>
+<pre><code>mkdir -p ~/w/projeto-de-so
+cd ~/w/projeto-de-so
+</code></pre>
+<h2 is-upgraded>Inicializando repositório</h2>
+<pre><code>git init
+Initialized empty Git repository in /home/eduardo/w/projeto-de-so/.git/
+</code></pre>
+<p>Percebam que a pasta <code>.git</code> foi criada:</p>
+<pre><code>ls -la
+total 12
+drwxrwxr-x  3 eduardo eduardo 4096 Ago  1 23:17 .
+drwxrwxr-x 13 eduardo eduardo 4096 Ago  1 23:17 ..
+drwxrwxr-x  7 eduardo eduardo 4096 Ago  1 23:17 .git
+</code></pre>
+<h2 is-upgraded>Baixando arquivos e salvando na pasta</h2>
+<pre><code>cd ~/w/projeto-de-so/
+wget http://professor.unisinos.br/barbosa/SO/ch1br.ppt
+</code></pre>
+<h2 is-upgraded>Criar um repositório para guardar arquivos para um projeto de uma disciplina</h2>
+<p>Nesta atividade você irá criar um repositório para hospedar os arquivos de um projeto</p>
+<ol type="1">
+<li>Escolham um projeto de disciplina (se não tiver um projeto, invente um).</li>
+<li>Vá ao github e crie um repositório para o projeto escolhido. (Lembre-se de marcar que deseja criar um arquivo README)</li>
+<li>Depois que o projeto for criado, edite o arquivo <code>README.md</code> e adicione um parágrafo explicando o projeto.</li>
+</ol>
+
+
+      </google-codelab-step>
+    
+      <google-codelab-step label="Algo mais" duration="0">
+        <p>Sei lá.</p>
+
+
+      </google-codelab-step>
+    
+  </google-codelab>
+
+  <script src="https://storage.googleapis.com/codelab-elements/native-shim.js"></script>
+  <script src="https://storage.googleapis.com/codelab-elements/custom-elements.min.js"></script>
+  <script src="https://storage.googleapis.com/codelab-elements/prettify.js"></script>
+  <script src="https://storage.googleapis.com/codelab-elements/codelab-elements.js"></script>
+
+</body>
+</html>
