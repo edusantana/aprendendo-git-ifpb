@@ -83,8 +83,22 @@ drwxrwxr-x  7 eduardo eduardo 4096 Ago  1 23:17 .git
 ```w/
 cd ~/w/projeto-de-so/
 wget http://professor.unisinos.br/barbosa/SO/ch1br.ppt
+wget https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf
+wget https://github.com/edusantana/aprendendo-git-ifpb/raw/master/so/ola.py
+wget https://github.com/edusantana/aprendendo-git-ifpb/raw/master/so/links.txt
+```
+
+
+## Criando o repositório no github
+
+### Criando arquivo README
+
+Para enviar os arquivos para um repositório é necessário criar arquiv README:
 
 ```
+echo "# projeto-de-so" >> README.md
+```
+
 
 <!--
 - uma apresentação de slide
@@ -92,4 +106,23 @@ wget http://professor.unisinos.br/barbosa/SO/ch1br.ppt
 - um programa (script) escrito em python
 - links sobre os assuntos do projeto
 http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start
+-->
+
+## Criando repositório
+
+![criando-repositorio](https://user-images.githubusercontent.com/3603111/62368981-878a5f80-b504-11e9-99b7-6396f8e37565.gif)
+
+
+NOTE: **Certifique-se de está dentro do diretório 'projeto-de-so'**.
+
+<!--
+
+```
+git init
+git add *
+git commit -m "primeiro commit"
+git remote add origin git@github.com:SEU-LOGIN-AQUI/projeto-de-so.git
+git push -u origin master
+```
+
 -->
