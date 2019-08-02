@@ -57,6 +57,7 @@ Vamos supor que desejamos salvar um projeto com os seguintes arquivos:
 O nosso primeiro passo é criar o diretório num local que desejamos, nesse caso optamos por criar `projeto-de-so` dentro do diretório `w`:
 
 ```bash
+rm -rf ~/w/projeto-de-so
 mkdir -p ~/w/projeto-de-so
 cd ~/w/projeto-de-so
 ```
