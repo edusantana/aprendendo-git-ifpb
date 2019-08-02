@@ -108,7 +108,7 @@ echo "# projeto-de-so" >> README.md
 http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start
 -->
 
-## Criando repositório
+### Criando repositório
 
 ![criando-repositorio](https://user-images.githubusercontent.com/3603111/62368981-878a5f80-b504-11e9-99b7-6396f8e37565.gif)
 
